@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
  */
-package com.baidu.ipangu.designPatterns;
+package com.baidu.ipangu.designPatterns.templateMode;
 
 /**
  * Created by yangchuanlian on 2016/12/22.
